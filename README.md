@@ -1,5 +1,7 @@
 # dci-stat
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 The "Digital Capability Index (DCI) by Prefecture" dataset from Nomura Research Institute (NRI).
 
 ## Data
